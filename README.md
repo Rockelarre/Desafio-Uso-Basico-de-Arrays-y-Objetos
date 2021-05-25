@@ -1,9 +1,9 @@
 # Desafio-Uso-Basico-de-Arrays-y-Objetos
 
-## Tarea para el programa de DESARROLLO DE APLICACIONES FULL STACK JAVASCRIPT
+### Módulo 2
+### Programación básica en JavaScript
 
-Módulo 2
-Programación básica en JavaScript
+## Tarea sobre Arrays y Objetos
 
 Contenidos Desarrollados:
 
@@ -13,24 +13,22 @@ Contenidos Desarrollados:
 - Iterando sobre objetos
 
 
-## Cursos del Programa
+## Programa de Desarrollo de Aplicaciones FullStack JAVASCRIPT
 
-Módulo 1: Fundamentos Desarrollo Web
+- Módulo 1: Fundamentos Desarrollo Web
 
-Módulo 2: Programación básica en JavaScript
+- Módulo 2: Programación básica en JavaScript
 
-Módulo 3: Programación avanzada en Javascript
+- Módulo 3: Programación avanzada en Javascript
 
-Módulo 4: Desarrollo de aplicaciones web Frontend
+- Módulo 4: Desarrollo de aplicaciones web Frontend
 
-Módulo 5: Lenguaje de consultas a una base de datos PostgreSQL
+- Módulo 5: Lenguaje de consultas a una base de datos PostgreSQL
 
-Módulo 6: Desarrollo Backend en Node
+- Módulo 6: Desarrollo Backend en Node
 
-Módulo 7: Acceso a base de datos con Node
+- Módulo 7: Acceso a base de datos con Node
 
-Módulo 8: Framework Express
+- Módulo 8: Framework Express
 
-Edutecno
-Desafío Latam
-SENCE
+Edutecno - Desafío Latam - SENCE
